@@ -1,0 +1,17 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+builds*/
+*.zip
+*.csproj
+*.slnx
+*.sln
+.vs/
+.idea/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+Assets/_Recovery/
